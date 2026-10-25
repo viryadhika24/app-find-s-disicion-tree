@@ -3,6 +3,7 @@ import pandas as pd
 import streamlit as st
 
 st.set_page_config(page_title="Find-S & ID3", page_icon="🖧", layout="wide")
+st.html("google7e93bfb98511628b.html")
 
 # Dataset contoh dari kode pembelajaran
 data = [
